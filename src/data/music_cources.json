@@ -1,105 +1,45 @@
 {
-    "courses": [
-      {
-        "id": 1,
-        "title": "Sitar Fundamentals",
-        "slug": "sitar-fundamentals",
-        "description": "Learn the basics of playing sitar with our comprehensive beginner's course.",
-        "price": 99.99,
-        "instructor": "Ravi Shankar",
-        "isFeatured": true,
-        "image": "/courses/sitar.jpg"
-      },
-      {
-        "id": 2,
-        "title": "Harmonium for Beginners",
-        "slug": "harmonium-for-beginners",
-        "description": "Start your musical journey with foundational harmonium skills taught by expert instructors.",
-        "price": 109.99,
-        "instructor": "Lata Mehta",
-        "isFeatured": false,
-        "image": "/courses/harmonium.jpg"
-      },
-      {
-        "id": 3,
-        "title": "Advanced Hindustani Vocal Techniques",
-        "slug": "advanced-hindustani-vocal-techniques",
-        "description": "Enhance your singing with advanced Hindustani vocal techniques for intermediate to advanced learners.",
-        "price": 119.99,
-        "instructor": "Asha Bhosle",
-        "isFeatured": true,
-        "image": "/courses/hindustani-vocal.jpg"
-      },
-      {
-        "id": 4,
-        "title": "Tabla Mastery",
-        "slug": "tabla-mastery",
-        "description": "Master the tabla with our comprehensive course covering all skill levels.",
-        "price": 129.99,
-        "instructor": "Zakir Hussain",
-        "isFeatured": false,
-        "image": "/courses/tabla.jpg"
-      },
-      {
-        "id": 5,
-        "title": "Raga Improvisation",
-        "slug": "raga-improvisation",
-        "description": "Learn the art of raga improvisation with this course designed for all levels.",
-        "price": 139.99,
-        "instructor": "Amjad Ali Khan",
-        "isFeatured": false,
-        "image": "/courses/raga.jpg"
-      },
-      {
-        "id": 6,
-        "title": "Indian Classical Music Production",
-        "slug": "indian-classical-music-production",
-        "description": "Dive into music production with this introductory course on the basics of classical Indian sound engineering and mixing.",
-        "price": 149.99,
-        "instructor": "Rahul Sharma",
-        "isFeatured": true,
-        "image": "/courses/indian-music-prod.jpg"
-      },
-      {
-        "id": 7,
-        "title": "Bhajan Composition Essentials",
-        "slug": "bhajan-composition-essentials",
-        "description": "Learn the essentials of bhajan composition to express your musical creativity.",
-        "price": 159.99,
-        "instructor": "Anup Jalota",
-        "isFeatured": false,
-        "image": "/courses/bhajan-composition.jpg"
-      },
-      {
-        "id": 8,
-        "title": "Bollywood Music Production",
-        "slug": "bollywood-music-production",
-        "description": "Create compelling Bollywood music with our course designed for beginners to advanced users.",
-        "price": 169.99,
-        "instructor": "AR Rahman",
-        "isFeatured": true,
-        "image": "/courses/bollywood-music-prod.jpg"
-      },
-      {
-        "id": 9,
-        "title": "Carnatic Music History",
-        "slug": "carnatic-music-history",
-        "description": "Explore the rich history of Carnatic music from its origins to the present day.",
-        "price": 179.99,
-        "instructor": "M.S. Subbulakshmi",
-        "isFeatured": false,
-        "image": "/courses/carnatic-music.jpg"
-      },
-      {
-        "id": 10,
-        "title": "Classical Guitar Techniques",
-        "slug": "classical-guitar-techniques",
-        "description": "Discover the techniques of classical guitar with a touch of Indian ragas to add soul and depth to your playing.",
-        "price": 189.99,
-        "instructor": "Ehsaan Noorani",
-        "isFeatured": true,
-        "image": "/courses/classical-guitar.jpg"
-      }
-    ]
-  }
-  
+  "courses": [
+    {
+      "id": 1,
+      "title": "Sitar Fundamentals",
+      "slug": "sitar-fundamentals",
+      "description": "Strum your way to mastery with our sitar basics course!",
+      "price": 99.99,
+      "instructor": "Ravi Shankar",
+      "isFeatured": true,
+      "image": "/courses/sitar.png"
+    },
+    {
+      "id": 2,
+      "title": "Harmonium for Beginners",
+      "slug": "harmonium-for-beginners",
+      "description": "Start playing harmonium and create magical melodies with ease.",
+      "price": 109.99,
+      "instructor": "Lata Mehta",
+      "isFeatured": true,
+      "image": "/courses/harmonium.jpeg"
+    },
+
+    {
+      "id": 3,
+      "title": "Tabla Mastery",
+      "slug": "tabla-mastery",
+      "description": "Become a tabla pro with our all-levels comprehensive course!",
+      "price": 129.99,
+      "instructor": "Zakir Hussain",
+      "isFeatured": false,
+      "image": "/courses/tabla.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Classical Guitar Techniques",
+      "slug": "classical-guitar-techniques",
+      "description": "Master classical guitar and infuse it with Indian ragas for deeper sound.",
+      "price": 189.99,
+      "instructor": "Ehsaan Noorani",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpeg"
+    }
+  ]
+}
